@@ -1,0 +1,94 @@
+<house_of_habad>
+  <rabbi>
+    <name>
+      <first_name>Moshe
+      </first_name>
+      <last_name>Shpira
+      </last_name>
+    </name>
+    <age>31
+    </age>
+    <address>
+      <street> 1 Rabbi Spira Street
+      </street>
+      <city>Jerusalem
+      </city>
+      <country>Israel
+      </country>
+    </address>
+    <family_details>
+      <relative>
+        <name>
+          <first_name>Jacob
+          </first_name>
+          <last_name>Gugig
+          </last_name>
+        </name>
+        <age>22
+        </age>
+        <address>
+          <street>5 Ben Yehuda 
+          </street>
+          <city>Jerusalem
+          </city>
+          <country>Israel
+          </country>
+        </address>
+        <relationship>son
+        </relationship>
+        <phone_number>054-1234567
+        </phone_number>
+        <phone_number>02-1234567
+        </phone_number>
+      </relative>
+      <relative>
+        <name>
+          <first_name>Rachel
+          </first_name>
+          <last_name>Nussbacher
+          </last_name>
+        </name>
+        <age>33
+        </age>
+        <address>
+          <street>Baal Atania 20
+          </street>
+          <city>Bney Brak
+          </city>
+          <country>Israel
+          </country>
+        </address>
+        <relationship>daughter
+        </relationship>
+        <phone_number>054-2345678
+        </phone_number>
+        <phone_number>054-5400054
+        </phone_number>
+      </relative>
+      <relative>
+        <name>
+          <first_name>Miriam
+          </first_name>
+          <last_name>Donat
+          </last_name>
+        </name>
+        <age>20
+        </age>
+        <address>
+          <street>Gordon 2
+          </street>
+          <city>Or Yehuda
+          </city>
+          <country>Israel
+          </country>
+        </address>
+        <relationship>mother
+        </relationship>
+        <phone_number>054-3456789
+        </phone_number>
+        <phone_number>02-3456789
+        </phone_number>
+      </relative>
+    </family_details>
+  </rabbi>
+</house_of_habad>

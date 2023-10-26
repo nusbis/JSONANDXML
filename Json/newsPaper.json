@@ -1,0 +1,38 @@
+{
+    "news":
+    [
+{
+        "ID": "12345",
+        "Title": "1400 people were murdered on October 7",
+        "Content": "In the attack on Saturday morning, Hamas members massacred and murdered",
+        "Category": "War",
+        "Date": "2023-10-10",
+        "Source": "YNET",
+        "Image": "https://www.google.com/search?q=7.10&sca_esv=576533920&tbm=isch&sxsrf=AM9HkKmyPyvZHm1vY76IBqnQCt-mr2iQjg:1698255038969&source=lnms&sa=X&ved=2ahUKEwiDs9eC3ZGCAxXUU6QEHVhJDkIQ_AUoAXoECAEQAw&biw=1536&bih=715&dpr=1.25#imgrc=fuFxw_kBeAKPIM",
+        "Wrote": "Dani Adamker",
+        "metaDate":[
+            {
+                "TimeOfArticleArrival":"12:00",
+                "TimeToUploadAnArticle":"12:30"
+            }
+        ]
+},
+{
+    "ID": "12346",
+    "Title": "The warrior who promised to stop being silent speaks to a crying country Brigadier General Daniel Hagari, profile",
+    "Content": "The first official figure that the terrified citizens of Israel saw on October 7 was the IDF spokesman, a decorated but unknown officer. When the political ranks fell silent, he became the face of the country in the war. Hagari, the former commander of the fleet, who served in the Chief of Staff offices of Gantz and Eisenkot, is currently in charge About 2,000 people fighting in the chaotic media arena. The challenges, the criticism and the special story of brother Yoni",
+    "Category": "War",
+    "Date": "2023-10-17",
+    "Source": "YNET",
+    "Image": "https://www.google.com/search?q=7.10&sca_esv=576533920&tbm=isch&sxsrf=AM9HkKmyPyvZHm1vY76IBqnQCt-mr2iQjg:1698255038969&source=lnms&sa=X&ved=2ahUKEwiDs9eC3ZGCAxXUU6QEHVhJDkIQ_AUoAXoECAEQAw&biw=1536&bih=715&dpr=1.25#imgrc=fuFxw_kBeAKPIM",
+    "Wrote": "Nedav Eyal",
+    "metaDate":[
+        {
+            "TimeOfArticleArrival":"10:30",
+            "TimeToUploadAnArticle":"12:30"
+        }
+    ]
+}
+    ]
+}
+  
